@@ -1,10 +1,7 @@
-# StockTradingPlatform
-A Java-based Stock Trading Platform developed during the CodeAlpha Internship.  This project simulates a trading environment with real-time market updates, buy/sell operations,  portfolio tracking, and file-based data storage using Object-Oriented Programming (OOP).
-
 📊 Stock Trading Platform (Java)
 
-A Java-based Stock Trading Platform built during my CodeAlpha Internship.
-Simulates a basic stock market with buy/sell operations, portfolio tracking, and transaction history using Object-Oriented Programming (OOP).
+A Java-based Stock Trading Platform developed during my CodeAlpha Internship.
+Simulates a simple stock market with buy/sell operations, portfolio tracking, and transaction history using Object-Oriented Programming (OOP).
 
 🚀 Features
 
