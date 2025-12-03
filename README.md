@@ -1,3 +1,4 @@
+# CodeAlpha
 📊 Stock Trading Platform (Java)
 
 A Java-based Stock Trading Platform developed during my CodeAlpha Internship.
